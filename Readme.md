@@ -32,3 +32,5 @@ This project demonstrates how SQL can be used to analyze real-world datasets and
 - dataset/train.csv
 - insights.md
 - sql_queries.sql
+- Sales Dashboard.pbix
+  
